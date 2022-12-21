@@ -34,8 +34,13 @@ Randomness source from [Chainlink VRF V2](https://docs.chain.link/vrf/v2/introdu
 <p align="center">Fig.4 - Home Page View Once Game Started</p>
 </figure>
 
-<a style="color: red ; font-size: 25px">⭐Note</a></br>
-Under the situation were you were unable to join, adjust your "Gas Limit" ; "Max Priority Fee" ; "Max Fee" accordingly. Here's a [guide](https://metamask.zendesk.com/hc/en-us/articles/4402538041869-Error-ethjs-query-while-formatting-outputs-from-RPC-transaction-underpriced-error-) on how to adjust on Metamask.
+</br>
+<!-- <a style="color: red ; font-size: 25px">⭐Note</a> -->
+
+> **Note**
+
+Under the situation were you were unable to join, adjust your "Gas Limit" ; "Max Priority Fee" ; "Max Fee" accordingly.
+Here's a [guide](https://metamask.zendesk.com/hc/en-us/articles/4402538041869-Error-ethjs-query-while-formatting-outputs-from-RPC-transaction-underpriced-error-) on how to adjust on Metamask.
 
 <img src="./my-app/public/metamask1.PNG" alt="metamask1" style="width:100%">
 
