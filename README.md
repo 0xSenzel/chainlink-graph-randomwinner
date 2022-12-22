@@ -80,7 +80,7 @@ npx hardhat verify --network mumbai YOUR_SMARTCONTRACT_ADDRESS "CONSTRUCTOR ARG1
 
 <br/>
 
-### Graph Folder
+### Subgraph
 
 Head to [graph](./graph/) folder:
 
@@ -88,7 +88,7 @@ Head to [graph](./graph/) folder:
 npm install
 ```
 
-Create an [account](https://thegraph.com/hosted-service/dashboard) and [setup](https://thegraph.com/docs/en/deploying/deploying-a-subgraph-to-hosted/) your The Graph Indexing. Here are some of the command you can use to setup locally:
+Create an [account](https://thegraph.com/hosted-service/dashboard) and [setup](https://thegraph.com/docs/en/deploying/deploying-a-subgraph-to-hosted/) your Subgraph Indexing. Here are some of the command you can use to setup locally:
 
 ```
 yarn global add @graphprotocol/graph-cli
